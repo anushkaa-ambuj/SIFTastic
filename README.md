@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ### Visual Classification and Adversarial detection
 To start the visual classification module, run the following script:
 ```
-python3 app.py
+python3 BOVWC.py
 ```
 
 
