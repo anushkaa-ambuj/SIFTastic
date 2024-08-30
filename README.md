@@ -1,4 +1,4 @@
-# SIFTastic: Unveiling Reality: SIFT Applications for Visual Classification
+# SIFTastic: Unveiling Reality: SIFT Applications for Visual Classification and Image Retrieval
 
 **Github Repository for CSL7360 Computer Vision Course**
 
